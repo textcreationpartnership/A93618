@@ -1,0 +1,201 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Speciall good news from Ireland, being a true relation of a late and great victory obtained against the rebels in the north of Ireland: by that pious, prudent, and couragious commander, Sir VVill: Stewart, col. The truth whereof being confirmed by three severall letters directed to Mr. Abraham Pont, soliciter for the said Sir William in London.</title>
+            <author>Stewart, William, Sir, d. 1647?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93618</idno>
+            <idno type="STC">Wing S4841</idno>
+            <idno type="STC">Thomason E86_21</idno>
+            <idno type="STC">ESTC R8799</idno>
+            <idno type="EEBO-CITATION">99873406</idno>
+            <idno type="PROQUEST">99873406</idno>
+            <idno type="VID">155692</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93618)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155692)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 15:E86[21])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Speciall good news from Ireland, being a true relation of a late and great victory obtained against the rebels in the north of Ireland: by that pious, prudent, and couragious commander, Sir VVill: Stewart, col. The truth whereof being confirmed by three severall letters directed to Mr. Abraham Pont, soliciter for the said Sir William in London.</title>
+                  <author>Stewart, William, Sir, d. 1647?</author>
+                  <author>Marshall, Thomas, 1621-1685.</author>
+                  <author>Lockhart, John.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Henry Overton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Jan. 27. 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Three letters signed, respectively : Thom. Marshall, Will Stewart, Mr. John Lockhart.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155692:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 64 -->
+            <p>Speciall good News from IRELAND, Being a true RELATION Of a late and great Victory obtained againſt the Rebels in the North of <hi>IRELAND:</hi>
+            </p>
+            <p>By that pious, prudent, and couragious Commander, Sir <hi>VVill: Stewart, Col.</hi>
+            </p>
+            <p>The truth whereof being confirmed by three ſeverall Letters directed to Mr. <hi>Abraham Pont,</hi> Soliciter for the ſaid Sir <hi>William</hi> in <hi>London.</hi>
+            </p>
+            <p>London Printed for <hi>Henry Overton, Jan.</hi> 27. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:155692:2"/>
+            <!-- PDF PAGE 65 -->
+            <pb n="1" facs="tcp:155692:2"/>
+            <!-- PDF PAGE 65 -->
+            <head>Speciall good Newes out of <hi>Ireland.</hi>
+            </head>
+            <opener>
+               <salute>Worthy Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Arrived in <hi>Fairy</hi> Road the 11. of this month from <hi>London-derry,</hi> after that bleſſed, and (almoſt) mira<g ref="char:EOLhyphen"/>culous Victory which it pleaſed God to give your Colonell Sir <hi>William Stewart</hi> over the Rebels in <hi>Kinnowyer;</hi> which I thought good to impart to you, hearing you were in <hi>London,</hi> which was thus; Sir <hi>William</hi> (getting notice that the Rebels of <hi>Fanet</hi> and <hi>Tarman,</hi> were under the leading of <hi>Tirlagh Mac Caffer,</hi> and ſome of the chiefe of the <hi>Met-Swynes,</hi> and <hi>O Galghonors,</hi> ſetled ſomewhat ſecurely neere the head of <hi>Mulroy</hi>) commanded 7. of his Companies to make a nights march towards them, the beginning of the laſt moneth, and I being a Voluntere in his Regiment ſince <hi>Lambas</hi> laſt, marched along with them, and came unexpectedly upon them, not being drawne up to a body, but the darkneſſe of the night befriended the Rogues ſo much, as we killed not above thirty of them, the reſt eſcaped to the mountaines, and many of them fled into the Ilands in Curraghs and Boats, ſo that at that time we onely diſ<g ref="char:EOLhyphen"/>perſed them with the loſſe of about 30 of their number, and brought home to our quarters about 400. Cowes with much difficulty through hot skirmiſhing with the enemies all alongſt the way; But Noble Sir <hi>William</hi> not being ſatisfied with that, knowing that the rogues being aſſaulted againe, would flie to the Ilands, cauſed to provide ſeven Boats from <hi>Newton,</hi> with twenty
+<pb n="2" facs="tcp:155692:3"/>
+               <!-- PDF PAGE 66 -->
+Musketiers in each boat to goe about to <hi>Kinnowyer</hi> Ilands, and directed five Companies to march by land, and lie in Ambuſh at ſuch places where he knew the Rebels (being aſſaulted by the Musketiers in the boats) would land, and ſo it fell out by Gods providence accordingly, for partly of them that were killed in the Ilands, and thoſe that were killed by the Ambuſhment, there fell of the Rebels that morning above 300. and ſome ſpoyle got in the Ilands, and all this without the loſſe of any of ours, though ſome wounded; Therefore we marched to <hi>Roſgull</hi> and <hi>Don,</hi> and brought from thence ſome body of Cowes, no enemy appearing to any purpoſe, till in our returne, there met us (as ſome of our priſoners told us) to the number of 4000. at <hi>Kinnowyer</hi> woods, where we had a ſharp skirmiſh with them, at night failing, but through Gods goodneſſe they tooke the flight, after which wee made a halt till the Moone roſe, which was about midnight, but we had not marched above a mile from the place, when as wee were aſſaulted afreſh, and we continued in hot play with them till foure of the clock in the morning, at which time they fled confu<g ref="char:EOLhyphen"/>ſedly from us, leaving behind them of their ſlaine number, above 300. but we loſt our booty in the darke night, about nine of the Clocke they charged us againe, and entertained ſport for one houre with us, and ſo thereafter they fled, but their body being great, and we but a ſmall number, we got command not to breake our order in chaſing them through the boggy woods, but to ad<g ref="char:EOLhyphen"/>vance in orderly march, till we had paſſed the woods, at which time much about noone, they gave us a freſh aſſault, of all the reſt the moſt deſperate, which we entertained with undaunted cou<g ref="char:EOLhyphen"/>rage, till about two of the clocke, at which time our Troope mee<g ref="char:EOLhyphen"/>ting with them in rideable ground, charged them furiouſly, broke and routed them with an exceeding great ſlaughter, ſo that in all there was above 1000 killed, and not above foure priſoners taken, by our ſeven Companies, which was wonderfull in our eyes, but not unto us, but unto the Lord of Hoſts give the glory; Our loſſe was but of five men, but above forty of our beſt men wounded, whereof Captaine <hi>Mauxwell</hi> is one, and not many of them dangerouſly. The reaſon why our priſoners were ſo few,
+<pb n="3" facs="tcp:155692:3"/>
+               <!-- PDF PAGE 66 -->
+was becauſe he had no ſtomacke to give ſuch perfidious rogues any quarter, who keepes none to us. This victory amongſt many other great victories, which it hath pleaſed God to grant Sir <hi>Wil<g ref="char:EOLhyphen"/>liam Stewart</hi> and his Regiment, without the helpe of any other, is much envyed by ſuch who are his cloſe enemies, whom you know are the Papiſticall and Prelaticall faction, becauſe he is one that abhorreth all corrupt courſes in matters of Gods worſhip, and who (I hope) if God ſpare his dayes will prove an active Inſtrument for furthering the worke of Reformation in that l<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd; And now you may ſee how the Lord makes his promiſe good, who honoureth him. The report is here that that man who is called the Biſhop of <hi>Raphoe,</hi> is not onely walking ſecurely daily in the Parliament Houſe, but has obtained from the Par<g ref="char:EOLhyphen"/>liament a great ſumme of money which (if true) is very ſtrange that ſuch a grave and wiſe Aſſembly, intending the worke of Re<g ref="char:EOLhyphen"/>formation, ſhould contribute anything to the maintaining of ſuch as he is, who is notoriouſly knowne to be as venemous againſt their procedings as any man; and who cannot truely pretend poverty, having his Rents duely payed him out of his Lands in the Barony of <hi>Raphoe,</hi> notwithſtanding of this Rebellion; God knowes, that Sir <hi>William Stewart</hi> (who has not a penney of rent comming to him ſince the rebellion) (and who before the Re<g ref="char:EOLhyphen"/>bellion had neere upon 2000 li. ariſing yearely from him) as is reported deſerveth to be conſidered more then the reſt, in regard he hath engaged himſelf in many thouſand pounds for the main<g ref="char:EOLhyphen"/>taining his Regiment 23 moneths more; If the Parliament had known the true worth of that Honourable man, without all doubt they would reſent his caſe much more then others there; Many of their Companies both of foot and horſe are become very thin, for want of pay, cloathes and victuals, which the Lord ſupply in his appointed time, Thus hoping to ſee you in this Kingdome at your returne, I commit you to Gods bleſſing, and reſt,</p>
+            <closer>
+               <dateline>Irwine <date>the 13. of Ian. 1643.</date>
+               </dateline> 
+               <signed>Your loving friend to ſerve you <hi>Thom. Marſhall.</hi>
+               </signed>
+            </closer>
+            <postscript>
+               <p>The newes of this Victory obtained by your Colonell, came to <hi>Glaſgow,</hi> as I heare, 15 dayes before I landed.</p>
+            </postscript>
+         </div>
+         <div type="letter">
+            <pb n="4" facs="tcp:155692:4"/>
+            <!-- PDF PAGE 67 -->
+            <opener>
+               <salute>Mr. <hi>Pont,</hi>
+               </salute>
+            </opener>
+            <p>ON the eighth of this moneth <hi>James Ewine</hi> of <hi>Letterkemy</hi> arrived in this Towne, who was within this 3. weekes in <hi>Fanet</hi> with 7. foote Companies of my Fathers Regi<g ref="char:EOLhyphen"/>ment, and his horſe Troope; The enemy being ſurpriſed on a ſudden, and not drawne together in a body, ſaved themſelves by flying in their boats to the Iſlands, ſo that at that time there was killed but about 28. of them, who would have ſaved 400. Cowes from our hands, which our Companies brought to their quar<g ref="char:EOLhyphen"/>ters, though much g<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lled by the Rogues their ſhot, at the South end of <hi>Kinnowyer</hi> woods, and though there was at leaſt 1000. ſhot ſhot at our men, yet only 3. were wounded, the one in the leg, the other in the belly, and the third in the cheeke: My fa<g ref="char:EOLhyphen"/>ther finding by experience, that there was no good to be done without Boates, provided ſeaven, and on the laſt of the laſt moneth, he placed 20. Musketiers in each boate, and appointed the reſt of the companies to march by Land on the firſt of this moneth, and after the enemies were beaten out of the Iſlands (where there were many of them killed by the ſhot out of the Boates) they ioyned themſelves with another great body of the enemy, and the next night at the returne of our Companies from <hi>Roſgull</hi> with ſome booty of Cowes, the enemy kept them in con<g ref="char:EOLhyphen"/>tinuall Skirmiſh, with little intermiſſion, till the afternoone the next day, and this was in the woods of <hi>Kinnowyer;</hi> about two a clocke in the afternoone the enemies fled, upon whom the horſe did brave execution without the woods. This man reporteth, that there was many more killed at that time by that part of my Fathers Regiment, then was at <hi>Glen met quin,</hi> by the 3. Regiments
+<pb n="5" facs="tcp:155692:4"/>
+               <!-- PDF PAGE 67 -->
+and 4. Troops of horſe: divers doe report that there was 1200. of the Rebels killed, ſome above 1000. others not much fewer, yet I believe verily there were many killed, ſo that it appeares God will never withdraw his powerfull arme, though that of man is. Send my armes, and my other things with the Ship that tran<g ref="char:EOLhyphen"/>ſporteth the ſouldiers Clothes, and mee word when they goe, that I may be the Carryer of that good newes to thoſe poore ſoules who have long expected them, and I will remaine</p>
+            <closer>
+               <signed>Your loving friend and ſervant, <hi>Will. Stewart.</hi>
+               </signed>
+               <dateline>Glaſgow <date>the 16. of Decemb. 1642.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="6" facs="tcp:155692:5"/>
+            <!-- PDF PAGE 68 -->
+            <opener>
+               <salute>Right worthy Brother,</salute>
+            </opener>
+            <p>BY my laſt, I ſhew you (if it be come to your hands) how matters goe here; Packets from thence, for all you wrote, are opened by the way, yet of neceſſity I ſend this other (elſe it muſt lye by me) from my Lady <hi>Stewart,</hi> whoſe husband with his Regiment we heare hath killed 1000. Rebells at Fanett, and that with 7. companyes. <hi>Trilaugh maccaffer,</hi> and the <hi>macſwynes</hi> fought againſt him, this is very lately done, and conſtantly repor<g ref="char:EOLhyphen"/>ted for trueth, your Colonell Sir <hi>William Stewart</hi> Relieved alſo my Couſen german <hi>Iames Nisbit</hi> his goods, which 19. rogues had taken, and had burnt his houſe. Sir <hi>William</hi> with a few in his company came ſuddenly upon them, and killed them all ſave one, whom the darke night favoured, <hi>Vt tutus cladis nuntius ſuper<g ref="char:EOLhyphen"/>eſſet.</hi> This an eye witneſſe reporteth. I pray you (if it be poſſible) purchaſſe a <hi>mandamus</hi> for your Colonell and Sir <hi>Robert Stewart,</hi> to put away the ſervice booke men, as <hi>Jabeſh Whittaker,</hi> Scyrilaw, &amp;c. as very great hinderers of our Scots that are well affect<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> either to reſyde there or to reſort thither. Thus praying the Lord that the Parliament forces may quit themſelves like me<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and be ſtrong in him who is Almighty, and only able to ſave, and ſettle peace there, as here, that we may all praiſe him joyntl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with one accord, I bid you farewell, and am</p>
+            <closer>
+               <signed>
+                  <hi>Your aſſured loving Brother,</hi> Mr. <hi>John Lockhart.</hi>
+               </signed>
+               <dateline>Edenbrough <date>the 20. of Decemb. 1642.</date>
+               </dateline>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
